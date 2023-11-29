@@ -18,5 +18,8 @@ int main()
 	// Print ending message.
 	goodbye();
 
+	// Print leaving message.
+	goodbye();
+
 	//std::cin.get();
 }
