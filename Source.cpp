@@ -2,5 +2,8 @@
 
 int main()
 {
-	std::cout << "Main function\n\n";
+	// Print some alternative text.
+	std::cout << "Welcome to the Feature branch!" << std::endl;
+
+	//std::cin.get();
 }
